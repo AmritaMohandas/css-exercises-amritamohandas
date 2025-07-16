@@ -1,10 +1,10 @@
 .odd {
-    background-color: lightpink;
+    background-color: rgb(255, 182, 193);
     font-family: Verdana, sans-serif;
 }
 
 #second {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
 
@@ -13,7 +13,6 @@
 }
 
 #fourth {
-    background-color: lightgreen;
-    font-size: 24px;
+    background-color: hsl(120, 73%, 75%);
     font-weight: bold;
 }
